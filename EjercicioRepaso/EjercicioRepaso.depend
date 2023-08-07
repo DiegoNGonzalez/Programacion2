@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1691437458 source:/home/diegonzalezdev/repoProgra2/EjercicioRepaso/funciones.cpp
+	<iostream>
+
+1691433545 source:/home/diegonzalezdev/repoProgra2/EjercicioRepaso/main.cpp
+	<iostream>
+	"funciones.h"
+
+1691432188 /home/diegonzalezdev/repoProgra2/EjercicioRepaso/funciones.h
+
