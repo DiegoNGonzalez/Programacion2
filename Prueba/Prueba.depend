@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1691880304 source:c:\users\diegu\onedrive\documentos\programacion2\prueba\fecha.cpp
+	"Fecha.h"
+
+1691880279 c:\users\diegu\onedrive\documentos\programacion2\prueba\fecha.h
+	<string>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1692485435 source:c:\users\diegu\onedrive\documentos\programacion2\tp2clases\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+

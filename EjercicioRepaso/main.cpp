@@ -25,7 +25,7 @@ Número de materia (entre 1 y 20), Nombre, Cantidad de alumnos inscriptos, Canti
 int main()
 {
    int vectorNumeroMateria[20]={0}, vectorCantidadAlumnos[20]={0}, vectorCantidadProfesores[20]={0},opcion, vectorAccesos[20]={0}, matrizMarzo[20][31]={0};
-   string vectorNombres[20]={""};
+   char vectorNombres[20][25]={""};
    float vectorAcumuladorHoras[20]={0};
 
 

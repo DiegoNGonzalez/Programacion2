@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1691449542 source:c:\users\danie\documents\curso ejemplos c\programacion ii\2023\c2 lunes\accesomaterias\main.cpp
+	<iostream>
+	<cstring>
+	"funciones.h"
+
+1691450365 c:\users\danie\documents\curso ejemplos c\programacion ii\2023\c2 lunes\accesomaterias\funciones.h
+
+1691449542 source:c:\users\diegu\onedrive\documentos\programacion2\accesomaterias\main.cpp
+	<iostream>
+	<cstring>
+	"funciones.h"
+
+1691451206 c:\users\diegu\onedrive\documentos\programacion2\accesomaterias\funciones.h
+
