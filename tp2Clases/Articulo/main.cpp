@@ -172,6 +172,7 @@ void articulosMayor(Articulo *vecArticulos, const int tamanio)
 
 
 }
+
 char menu()
 {
 
